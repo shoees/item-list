@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
@@ -58,7 +58,7 @@
 	{
 		"abr": "heatwave",
 		"price": 750,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "flashstorm",
@@ -106,14 +106,14 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -136,14 +136,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
+		"price": 100,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "maninblack",
@@ -296,7 +291,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
@@ -326,10 +321,20 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 67
 }
