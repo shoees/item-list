@@ -238,7 +238,7 @@
       "abr": "urn",
       "category": "Furniture",
       "defname": "Urn",
-      "price": 70
+      "price": 700
     },
     {
       "abr": "smallsculpture",
@@ -364,7 +364,7 @@
       "abr": "plantpot",
       "category": "Furniture",
       "defname": "PlantPot",
-      "price": 68
+      "price": 680
     },
     {
       "abr": "standinglamp",
@@ -382,7 +382,7 @@
       "abr": "walllamp",
       "category": "Furniture",
       "defname": "WallLamp",
-      "price": 49
+      "price": 490
     },
     {
       "abr": "floodlight",
@@ -406,7 +406,7 @@
       "abr": "bookcase",
       "category": "Furniture",
       "defname": "Bookcase",
-      "price": 70
+      "price": 700
     },
     {
       "abr": "smallbookcase",
@@ -430,7 +430,7 @@
       "abr": "hoopstonering",
       "category": "Recreation",
       "defname": "HoopstoneRing",
-      "price": 67
+      "price": 670
     },
     {
       "abr": "game-of-urboard",
@@ -862,49 +862,49 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 33
+      "price": 330
     },
     {
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 42
+      "price": 420
     },
     {
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 38
+      "price": 380
     },
     {
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32
+      "price": 320
     },
     {
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 30
+      "price": 300
     },
     {
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 38
+      "price": 380
     },
     {
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 18
+      "price": 180
     },
     {
       "abr": "duckegg(unfert.)",
@@ -916,7 +916,7 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "gooseegg(unfert.)",
@@ -928,7 +928,7 @@
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 18
+      "price": 180
     },
     {
       "abr": "herbalmedicine",
@@ -1774,19 +1774,19 @@
       "abr": "cat",
       "category": "Animals",
       "defname": "Cat",
-      "price": 167
+      "price": 300
     },
     {
       "abr": "yorkshireterrier",
       "category": "Animals",
       "defname": "YorkshireTerrier",
-      "price": 167
+      "price": 800
     },
     {
       "abr": "guineapig",
       "category": "Animals",
       "defname": "GuineaPig",
-      "price": 250
+      "price": 500
     },
     {
       "abr": "labradorretriever",
@@ -1804,31 +1804,31 @@
       "abr": "monkey",
       "category": "Animals",
       "defname": "Monkey",
-      "price": 167
+      "price": 300
     },
     {
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": 83
+      "price": 500
     },
     {
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": 100
+      "price": 500
     },
     {
       "abr": "turkey",
       "category": "Animals",
       "defname": "Turkey",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "goose",
       "category": "Animals",
       "defname": "Goose",
-      "price": 150
+      "price": 500
     },
     {
       "abr": "cow",
@@ -1912,7 +1912,7 @@
       "abr": "hare",
       "category": "Animals",
       "defname": "Hare",
-      "price": 83
+      "price": 500
     },
     {
       "abr": "snowhare",
@@ -1924,7 +1924,7 @@
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": 167
+      "price": 300
     },
     {
       "abr": "spelopede",
@@ -1948,7 +1948,7 @@
       "abr": "cobra",
       "category": "Animals",
       "defname": "Cobra",
-      "price": 250
+      "price": 300
     },
     {
       "abr": "tortoise",
@@ -1990,13 +1990,13 @@
       "abr": "gazelle",
       "category": "Animals",
       "defname": "Gazelle",
-      "price": 250
+      "price": 500
     },
     {
       "abr": "chinchilla",
       "category": "Animals",
       "defname": "Chinchilla",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "sheep",
@@ -2020,37 +2020,37 @@
       "abr": "capybara",
       "category": "Animals",
       "defname": "Capybara",
-      "price": 250
+      "price": 300
     },
     {
       "abr": "squirrel",
       "category": "Animals",
       "defname": "Squirrel",
-      "price": 58
+      "price": 500
     },
     {
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
-      "price": 58
+      "price": 500
     },
     {
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "raccoon",
       "category": "Animals",
       "defname": "Raccoon",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "iguana",
       "category": "Animals",
       "defname": "Iguana",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "warg",
@@ -3034,7 +3034,7 @@
       "abr": "blackboard",
       "category": "Furniture",
       "defname": "Blackboard",
-      "price": 56
+      "price": 560
     },
     {
       "abr": "genebank",
@@ -3052,7 +3052,7 @@
       "abr": "bloodtorch",
       "category": "Misc",
       "defname": "SanguphageMeetingTorch",
-      "price": 41
+      "price": 410
     },
     {
       "abr": "mechbooster",
@@ -3316,7 +3316,7 @@
       "abr": "wasterat",
       "category": "Animals",
       "defname": "WasteRat",
-      "price": 58
+      "price": 500
     },
     {
       "abr": "toxalope",
@@ -3376,25 +3376,25 @@
       "abr": "dirtcubesculpture",
       "category": "Art",
       "defname": "DirtCubeSculpture",
-      "price": 30
+      "price": 300
     },
     {
       "abr": "stonecubesculpture",
       "category": "Art",
       "defname": "StoneCubeSculpture",
-      "price": 30
+      "price": 300
     },
     {
       "abr": "sandcubesculpture",
       "category": "Art",
       "defname": "SandCubeSculpture",
-      "price": 30
+      "price": 300
     },
     {
       "abr": "scrapcubesculpture",
       "category": "Art",
       "defname": "ScrapCubeSculpture",
-      "price": 30
+      "price": 300
     },
     {
       "abr": "electricinhibitor",
@@ -3544,7 +3544,7 @@
       "abr": "twistedmeat",
       "category": "Meat",
       "defname": "Meat_Twisted",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "goldencube",
@@ -3778,7 +3778,7 @@
       "abr": "mortalis",
       "category": "Raw resources",
       "defname": "IH_Mortalis",
-      "price": 1
+      "price": 40
     },
     {
       "abr": "nemnir",
@@ -3802,13 +3802,13 @@
       "abr": "fakeeye",
       "category": "Fake Eyes",
       "defname": "IH_FakeEye",
-      "price": 10
+      "price": 500
     },
     {
       "abr": "severedhead",
       "category": "Drugs",
       "defname": "IH_Head",
-      "price": 20
+      "price": 1000
     },
     {
       "abr": "bigshelf",
@@ -4594,7 +4594,7 @@
       "abr": "avianparagonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ParagonChickenEggFertilized",
-      "price": 15
+      "price": 150
     },
     {
       "abr": "reptileparagonegg(unfert.)",
@@ -4606,7 +4606,7 @@
       "abr": "reptileparagonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ParagonIguanaEggFertilized",
-      "price": 60
+      "price": 600
     },
     {
       "abr": "bearchickenegg(unfert.)",
@@ -4618,7 +4618,7 @@
       "abr": "bearchickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_BearChickenEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "chickenbearegg(unfert.)",
@@ -4630,7 +4630,7 @@
       "abr": "chickenbearegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenbearEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "chickenlopeegg(unfert.)",
@@ -4642,7 +4642,7 @@
       "abr": "chickenlopeegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenlopeEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "chickenffaloegg(unfert.)",
@@ -4654,7 +4654,7 @@
       "abr": "chickenffaloegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenffaloEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "chickenwolfegg(unfert.)",
@@ -4666,7 +4666,7 @@
       "abr": "chickenwolfegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenwolfEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "chickenrabbitegg(unfert.)",
@@ -4678,7 +4678,7 @@
       "abr": "chickenrabbitegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenrabbitEggFertilized",
-      "price": 15
+      "price": 150
     },
     {
       "abr": "chickencategg(unfert.)",
@@ -4690,7 +4690,7 @@
       "abr": "chickencategg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickencatEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "boomachickenegg(unfert.)",
@@ -4702,7 +4702,7 @@
       "abr": "boomachickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_BoomachickenEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "wolfchickenegg(unfert.)",
@@ -4714,7 +4714,7 @@
       "abr": "wolfchickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_WolfchickenEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "thrumbochickenegg(unfert.)",
@@ -4726,7 +4726,7 @@
       "abr": "thrumbochickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ThrumbochickenEggFertilized",
-      "price": 42
+      "price": 420
     },
     {
       "abr": "chickenspideregg(unfert.)",
@@ -4744,7 +4744,7 @@
       "abr": "chickenlizardegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenlizardEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "chickenhorseegg(unfert.)",
@@ -4756,7 +4756,7 @@
       "abr": "chickenhorseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenhorseEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "turkeymanegg(unfert.)",
@@ -4768,7 +4768,7 @@
       "abr": "turkeymanegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_TurkeymanEggFertilized",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "weirdmilk",
@@ -4924,7 +4924,7 @@
       "abr": "chickenbear",
       "category": "Animals",
       "defname": "GR_Chickenbear",
-      "price": 192
+      "price": 300
     },
     {
       "abr": "chickenlope",
@@ -4942,7 +4942,7 @@
       "abr": "chickenwolf",
       "category": "Animals",
       "defname": "GR_Chickenwolf",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "chickenrabbit",
@@ -4954,13 +4954,13 @@
       "abr": "chickencat",
       "category": "Animals",
       "defname": "GR_Chickencat",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "turkeyman",
       "category": "Animals",
       "defname": "GR_Turkeyman",
-      "price": 250
+      "price": 500
     },
     {
       "abr": "boomabear",
@@ -4990,7 +4990,7 @@
       "abr": "boomsquirrel",
       "category": "Animals",
       "defname": "GR_Boomsquirrel",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "boomcat",
@@ -5176,37 +5176,37 @@
       "abr": "fleshling",
       "category": "Animals",
       "defname": "GR_Fleshling",
-      "price": 17
+      "price": 500
     },
     {
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": 500
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Animals",
       "defname": "GR_FleshMonstrosity",
-      "price": 17
+      "price": 1000
     },
     {
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 17
+      "price": 500
     },
     {
       "abr": "fleshflies",
       "category": "Animals",
       "defname": "GR_FleshFlies",
-      "price": 17
+      "price": 500
     },
     {
       "abr": "catbear",
       "category": "Animals",
       "defname": "GR_Catbear",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "catalope",
@@ -5218,13 +5218,13 @@
       "abr": "catchicken",
       "category": "Animals",
       "defname": "GR_Catchicken",
-      "price": 183
+      "price": 800
     },
     {
       "abr": "catffalo",
       "category": "Animals",
       "defname": "GR_Catffalo",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "catrabbit",
@@ -5236,7 +5236,7 @@
       "abr": "catwolf",
       "category": "Animals",
       "defname": "GR_Catwolf",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "catman",
@@ -5302,7 +5302,7 @@
       "abr": "chickenspider",
       "category": "Animals",
       "defname": "GR_Chickenspider",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "muffalopede",
@@ -5434,7 +5434,7 @@
       "abr": "muffalorat",
       "category": "Animals",
       "defname": "GR_Muffalorat",
-      "price": 175
+      "price": 500
     },
     {
       "abr": "muffaloman",
@@ -5458,7 +5458,7 @@
       "abr": "avianparagon",
       "category": "Animals",
       "defname": "GR_ParagonChicken",
-      "price": 250
+      "price": 500
     },
     {
       "abr": "muffaloparagon",
@@ -5530,7 +5530,7 @@
       "abr": "chickenlizard",
       "category": "Animals",
       "defname": "GR_Chickenlizard",
-      "price": 250
+      "price": 800
     },
     {
       "abr": "muffalokomodo",
@@ -5572,7 +5572,7 @@
       "abr": "squirralope",
       "category": "Animals",
       "defname": "GR_Squirralope",
-      "price": 208
+      "price": 500
     },
     {
       "abr": "rabbitchicken",
@@ -5584,7 +5584,7 @@
       "abr": "ratffalo",
       "category": "Animals",
       "defname": "GR_Ratffalo",
-      "price": 175
+      "price": 500
     },
     {
       "abr": "beaverwolf",
@@ -5614,7 +5614,7 @@
       "abr": "bearchicken",
       "category": "Animals",
       "defname": "GR_Bearchicken",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "bearffalo",
@@ -6598,7 +6598,7 @@
       "abr": "throwingrocks",
       "category": "Ranged weapons",
       "defname": "VWE_Throwing_Rocks",
-      "price": 11
+      "price": 500
     },
     {
       "abr": "longbow",
@@ -7300,7 +7300,7 @@
       "abr": "boomtick",
       "category": "Animals",
       "defname": "VFEI2_Boomtick",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "durapod",
@@ -7360,7 +7360,7 @@
       "abr": "megathrips",
       "category": "Animals",
       "defname": "VFEI2_Megathrips",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "megawasp",
@@ -7408,7 +7408,7 @@
       "abr": "swarmlings",
       "category": "Animals",
       "defname": "VFEI2_Swarmling",
-      "price": 83
+      "price": 100
     },
     {
       "abr": "tankroach",
@@ -7618,271 +7618,271 @@
       "abr": "ancientsystemrack",
       "category": "Misc",
       "defname": "VME_AncientSystemRack",
-      "price": 9
+      "price": 900
     },
     {
       "abr": "ancientequipmentblocks",
       "category": "Misc",
       "defname": "VME_AncientEquipmentBlocks",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "ancientmachine",
       "category": "Misc",
       "defname": "VME_AncientMachine",
-      "price": 18
+      "price": 108
     },
     {
       "abr": "ancientstoragecylinder",
       "category": "Misc",
       "defname": "VME_AncientStorageCylinder",
-      "price": 12
+      "price": 120
     },
     {
       "abr": "ancientbed",
       "category": "Misc",
       "defname": "VME_AncientBed",
-      "price": 5
+      "price": 500
     },
     {
       "abr": "ancientdisplaybank",
       "category": "Misc",
       "defname": "VME_AncientDisplayBank",
-      "price": 9
+      "price": 900
     },
     {
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "VME_AncientLockerBank",
-      "price": 5
+      "price": 100
     },
     {
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "VME_AncientCrate",
-      "price": 2
+      "price": 200
     },
     {
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "VME_AncientMilitaryCrate",
-      "price": 2
+      "price": 200
     },
     {
       "abr": "ancientspacercrate",
       "category": "Misc",
       "defname": "VME_AncientSpacerCrate",
-      "price": 2
+      "price": 200
     },
     {
       "abr": "ancientbarrel",
       "category": "Misc",
       "defname": "VME_AncientBarrel",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientgenerator",
       "category": "Misc",
       "defname": "VME_AncientGenerator",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientoperatingtable",
       "category": "Misc",
       "defname": "VME_AncientOperatingTable",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "VME_AncientShoppingCart",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "VME_AncientPostbox",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "VME_AncientVendingMachine",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "VME_AncientAirConditioner",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "VME_AncientKitchenSink",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "VME_AncientStove",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "VME_AncientOven",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "VME_AncientATM",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "VME_AncientWashingMachine",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "VME_AncientHydrant",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "VME_AncientMicrowave",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "VME_AncientToilet",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "VME_AncientRefrigerator",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "VME_AncientSmallCrate",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "VME_AncientLongCrate",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "VME_AncientLargeCrate",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "VME_AncientWheel",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "VME_AncientGiantWheel",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancienttanktrap",
       "category": "Misc",
       "defname": "VME_AncientTankTrap",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientmacro-engineblock",
       "category": "Misc",
       "defname": "VME_AncientLargeRustedEngineBlock",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "VME_AncientFence",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientrazorwire",
       "category": "Misc",
       "defname": "VME_AncientRazorWire",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientpipes",
       "category": "Misc",
       "defname": "VME_AncientPipes",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientmega-cannonplatform",
       "category": "Misc",
       "defname": "VME_AncientMegaCannonTripod",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientmega-cannonbarrel",
       "category": "Misc",
       "defname": "VME_AncientMegaCannonBarrel",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientcontainer",
       "category": "Misc",
       "defname": "VME_AncientContainer",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientmechanoiddetritus",
       "category": "Misc",
       "defname": "VME_AncientMechanoidShell",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientmechdropbeacon",
       "category": "Misc",
       "defname": "VME_AncientMechDropBeacon",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientsecurityturret",
       "category": "Misc",
       "defname": "VME_AncientSecurityTurret",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "VME_AncientRustedEngineBlock",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientnavbeacon",
       "category": "Misc",
       "defname": "VME_AncientShipBeacon",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "ancientspacejunk",
       "category": "Misc",
       "defname": "VME_AncientSpaceJunk",
-      "price": 2
+      "price": 200
     },
     {
       "abr": "wickerman",
@@ -8344,7 +8344,7 @@
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": 1
+      "price": 20
     },
     {
       "abr": "thrumbomeat",
@@ -8476,7 +8476,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": 1
+      "price": 500
     },
     {
       "abr": "immaturedryadmeat",
@@ -9640,7 +9640,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "VME_AncientBedGuest",
-      "price": 5
+      "price": 500
     }
   ],
   "total": 1607
