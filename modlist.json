@@ -1,0 +1,722 @@
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.4.2.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades",
+    "steamId": "3365118555",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Ben Lubar",
+    "name": "Alpha Bees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "More Archotech Garbage (Continued)",
+    "steamId": "3241944893",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Unon",
+    "name": "No Burn Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Tunnelers ARE deep drills",
+    "steamId": "3521193199",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Paragon",
+    "name": "UnLimitedArmor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Deserters",
+    "steamId": "3025493377",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids 2",
+    "steamId": "3309003431",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MRGames",
+    "name": "Removes Skill Decay",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Raccoon Cuddler",
+    "name": "Show Hair Under Stuff",
+    "steamId": "3255379190",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Terrain",
+    "steamId": "2850840457",
+    "version": "1.6.9294.32624"
+  },
+  {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "1.0.0+c5d2778abbeb0e954cdcbdc7eeb3901bf9e86b8b"
+  },
+  {
+    "author": "Linnun",
+    "name": "Keep Converting",
+    "steamId": "3461478214",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.25+b263d046e7f8db787745d2bbb0c944413e79de97"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gradient Hair",
+    "steamId": "1687053679",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.3.2.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Sarg",
+    "name": "Colored deep resources",
+    "steamId": "3203269467",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RebelRabbit, Taranchuk and ilyvion",
+    "name": "Quality Bionics (Continued)",
+    "steamId": "3236892428",
+    "version": "0.2.1"
+  },
+  {
+    "author": "Krelinos",
+    "name": "Social Experience from Trade",
+    "steamId": "3400608063",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
+    "name": "Vanilla Factions Expanded - Medieval 2",
+    "steamId": "3444347874",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Better Gene Inheritance",
+    "steamId": "3046776238",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "I will be back",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Animals Expanded — Royal Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "4.1.8.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Verdiss",
+    "name": "Faster Aging",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": " Original author: Captain Muscles (Nathan Harbour)\r\n    Since this fork: Arodoid\r\n    ",
+    "name": "Semi Random Research: Progression Fork",
+    "steamId": "3505290557",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aqua",
+    "name": "Uncapped Besties!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dingo",
+    "name": "No Forced Slowdown",
+    "steamId": "1419593453",
+    "version": "1.6.4497.1"
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages : Medieval Tools",
+    "steamId": "3028566550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9416.33549"
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Absolutely) Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius and Hazzer",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": "3.1.2"
+  },
+  {
+    "author": "GrillMaster",
+    "name": "Integrated Creep Joiners",
+    "steamId": "3233429182",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arkymn",
+    "name": "Graying Hair",
+    "steamId": "2807132773",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Cat Overhaul",
+    "steamId": "2763428090",
+    "version": "1.0.9320.25163"
+  },
+  {
+    "author": "民火",
+    "name": "Cut plants before building (Continued)",
+    "steamId": "3286376165",
+    "version": "1.6.2"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Archotech Weaponry (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha and HohenHeizen",
+    "name": "Anima Animals Combined (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hautarche",
+    "name": "Hauts' Framework",
+    "steamId": "3422815711",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Veltaris",
+    "name": "[AV] Framework",
+    "steamId": "3237129936",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Veltaris",
+    "name": "[AV] Work Queen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Metalocif",
+    "name": "More Creepjoiners",
+    "steamId": "3434682604",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arvkus, Proxyer and Lanilor",
+    "name": "Simple Apparel Recycling",
+    "steamId": "3239309389",
+    "version": "2.0.0.0+fdcd4f172af0f74adc0b269b21b87d4d6f5d0cd5"
+  },
+  {
+    "author": "Kilo",
+    "name": "Prestige Vacsuit Set",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "姬酱",
+    "name": "No Gray Eyes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VentaExtera",
+    "name": "Ideo Roles Don't Forbid Work",
+    "steamId": "3284846696",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "BotchJob",
+    "name": "Gallatross and Friends Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fraser Hitchen",
+    "name": "Better Beggars (Continued)",
+    "steamId": "3006899215",
+    "version": "1.6.1"
+  },
+  {
+    "author": "NozoMe",
+    "name": "Bad to the Bone",
+    "steamId": "3277105234",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Defi",
+    "name": "Auto-Cut Blight - 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "金兔子拉面",
+    "name": "AFU女士发型_Women's hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Books",
+    "steamId": "3403180654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
+    "steamId": "1975779192",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "[Royalty] Unlock Working Emperor (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alexander Zagirov",
+    "name": "[ZAV] Stuffed and Sealed Power Armor",
+    "steamId": "3410347095",
+    "version": "1.1.4.0"
+  },
+  {
+    "author": "Kattalisk",
+    "name": "All Production Gives XP",
+    "steamId": "3539744423",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Smart Odyssey",
+    "steamId": "3522762411",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Teiwaz",
+    "name": "Sellable Odyssey Unique Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Teiwaz",
+    "name": "Craftable Odyssey Unique Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "al9000",
+    "name": "Tasty Armory - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "al9000",
+    "name": "Tasty Armory - High Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Hospitality (Continued)",
+    "steamId": "3509486825",
+    "version": "1.5.0.8"
+  },
+  {
+    "author": "ZawodRoshen",
+    "name": "RimOfTheFallen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Snobi",
+    "name": "MutatorWorldIcons",
+    "steamId": "3551904193",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Moxie, konstantynopolitaneczka and CRESCENT",
+    "name": "Choose the Lesson",
+    "steamId": "3572338600",
+    "version": "1.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Triumphant Research",
+    "steamId": "3647618250",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rewi wire",
+    "name": "SmallBench",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Healsforhugs",
+    "name": "Nine lives",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arkymn",
+    "name": "More Trait Slots",
+    "steamId": "3639215530",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Corpse Description Fix",
+    "steamId": "3639910228",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arkymn",
+    "name": "Better Growth Moments",
+    "steamId": "3642805464",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "金兔子拉面",
+    "name": "AFU男士发型_Men's hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arquebus",
+    "name": "More Persona Traits",
+    "steamId": "2863308112",
+    "version": "1.2.9332.18067"
+  },
+  {
+    "author": "Stefanlog",
+    "name": "Basic Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hautarche",
+    "name": "Hauts' Added Traits",
+    "steamId": "3422847391",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andromeda",
+    "name": "Nice Plants Menu",
+    "steamId": "3685058533",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "asmallrabbit",
+    "name": "Uniform Growing Zone Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nina.Goblin",
+    "name": "Allies are Helpful",
+    "steamId": "3534920369",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Cybranian - Weapon Proficiency",
+    "steamId": "3523531768",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan, RedMattis and Alite ect",
+    "name": "Dark Ages : Beasts and Monsters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Antediluvian",
+    "name": "Junk Shuttle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Samael Gray",
+    "name": "Mechs and Animals for NPC Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CNEIO",
+    "name": "More Useful Injection",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Veterano",
+    "name": "Mythic Ages: Megafauna Bestiary",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "divineDerivative",
+    "name": "Way Better Romance",
+    "steamId": "2877731755",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  }
+]
